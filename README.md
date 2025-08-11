@@ -8,13 +8,13 @@ The project uses **NumPy, Pandas, and Matplotlib** to create professional, publi
 
 ## 📂 Contents
 
-- **`gdp_trend.py`** – Plots India's nominal GDP over the years.
-- **`gdp_per_capita.py`** – Plots GDP per capita and growth rate (dual-axis plot).
+- **`Ind_GDP.py`** – Plots India's nominal GDP over the years.
+- **`Ind_per_capita.py`** – Plots GDP per capita and growth rate (dual-axis plot).
 - **`wealth_distribution.py`** – Creates a histogram comparing income and wealth distribution across different population groups.
 - **Data Files**:
-  - `india_gdp.csv` – Nominal GDP data (2015–2024)
-  - `gdp_per_capita.csv` – GDP per capita & growth rate (2015–2025)
-  - `wealth_distribution.csv` – Income & wealth share (2022–2023)
+  - `India GDP` – Nominal GDP data (2015–2024)
+  - `GDP oer capita Income` – GDP per capita & growth rate (2015–2025)
+  - `Distribution of wealth in India amongg population` – Income & wealth share (2022–2023)
 
 ---
 
